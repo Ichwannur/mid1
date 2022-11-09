@@ -1,5 +1,5 @@
 // E1E121050 - ANNISA AZ'ZAHRA TARIMANA
-// LINE 1 SAMPAI LINE 55
+// LINE 1 SAMPAI LINE 55 COBA
 
 #include <windows.h> //membersihkan layar
 #include <GL/glut.h> //library grafik
